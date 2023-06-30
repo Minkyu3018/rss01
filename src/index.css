@@ -1,0 +1,20 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+	font-family: "Sans-Bold";
+	src: url(./assets/fonts/PTSans-Bold.ttf);
+}
+@font-face {
+	font-family: "Sans-BoldItalic";
+	src: url(./assets/fonts/PTSans-BoldItalic.ttf);
+}
+@font-face {
+	font-family: "Sans-Italic";
+	src: url(./assets/fonts/PTSans-Italic.ttf);
+}
+@font-face {
+	font-family: "Sans-Regular";
+	src: url(./assets/fonts/PTSans-Regular.ttf);
+}
